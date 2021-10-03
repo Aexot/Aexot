@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Aexot.
+- 👀 I’m interested in Video games.
+- 🌱 I’m currently learning Python and HTML & CSS.
+- 📫 Reach me by Discord : Aexot#1147
